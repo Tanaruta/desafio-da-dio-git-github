@@ -1,0 +1,4 @@
+Anotacões do estudo de git/github como primeiro repositório para o meu github .
+
+site para estudar markdown:https://www.markdownguide.org/
+site para baixar o git: https://git-scm.com/downloads
